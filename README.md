@@ -1,20 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Jack!;Full-Stack+Developer;Building+Mobile+Security&center=true&width=500&height=50">
+
+# ⚡ S JAYA KUMAR (JACK)
+### Software Engineer · Python Backend & Full-Stack · Defensive Security & Data Analytics
+
+[![Website](https://img.shields.io/badge/Live_Portfolio-JINUTECH-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://starktechdev26.github.io/JINUTECH/portfolio.html)
+[![Master Deck](https://img.shields.io/badge/Environment_Deck-Live_Telemetry-ff551f?style=for-the-badge&logo=speedtest&logoColor=white)](https://starktechdev26.github.io/JINUTECH/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/24sjk12ssk68/)
+[![GitHub](https://img.shields.io/badge/GitHub-starktechdev26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starktechdev26)
+
+<br/>
+
+<!-- Dynamic Neon Typewriter Header -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Defensive+Security+%26+Local-First+Architecture;Python+Backend+%26+Modular+Pipelines;Real-Time+Data+Analytics+%26+SQL;Crafting+Fast,+Resilient+Android+Systems&center=true&width=620&height=45&color=00F3FF&vCenter=true&size=20&font=Orbitron" alt="Typing Banner" />
+
+<p align="center">
+  <b>📍 Nelamangala, Bengaluru, Karnataka, India</b> · <i>Building lean silicon-level tools, local voice agents, and resilient data engines.</i>
+</p>
+
 </div>
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Web Architecture](https://img.shields.io/badge/Web_Architecture-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🎛️ SYSTEM OPERATIONAL PROFILE
 
-### 🚀 Featured Project: Raksha-Suraksha
-A comprehensive mobile security and anti-theft application built from the ground up.
-* **Focus:** Mobile application architecture, custom security protocols, and robust database management.
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayaKumar-2004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaKumar-2004&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+```yaml
+Operator       : S Jaya Kumar (Jack / JK)
+Role Focus     : Software Development · Python Engineering · Data Analytics
+Architecture   : Local-First · Zero-Cloud Reliance · Lean Resource Engineering
+Core Philosophy: "Good software runs locally, protects privacy, and stays fast under pressure."
+Current Status : Open for Developer & Engineering Roles in Bengaluru (Karnataka Grid)
